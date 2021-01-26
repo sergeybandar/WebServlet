@@ -42,7 +42,7 @@
                         <td>
                             <form action="/role" method="post">
                                 <input type="hidden" name="login" value="${user.getLogin()}">
-                                <button>Add</button>
+                                <button>USER/ADMIN</button>
                             </form>
                         </td>
                     </c:if>

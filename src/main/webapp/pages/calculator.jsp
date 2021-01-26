@@ -72,7 +72,9 @@
             </tr>
             <tr>
                 <td><div>AC</div></td>
-                <td><button type="submit" class="btn btn-primary" style="display:block; margin-left: auto">=</button></td>
+                <td></td>
+                <td></td>
+                <td><button type="submit" class="btn btn-primary" style="display:block; width: 100%; height: 100%">=</button></td>
             </tr>
         </table>
 <%--        <div class="col-12">--%>

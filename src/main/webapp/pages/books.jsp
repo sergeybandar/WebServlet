@@ -26,7 +26,7 @@
                         <form action="/books/book" method="post">
                             <input type="hidden" name="id" value="${book.getId()}">
                             <input type="hidden" name="redirect" value="books">
-                            <button>Add</button>
+                            <button>В корзину</button>
                         </form>
                     </c:if>
                 </div>

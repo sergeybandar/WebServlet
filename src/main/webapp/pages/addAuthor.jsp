@@ -22,7 +22,7 @@
         <label for="floatingInput">Name</label>
     </div>
     <div class="col-12">
-        <button type="submit" class="btn btn-primary" style="display:block; margin-left: auto">Sign in</button>
+        <button type="submit" class="btn btn-primary" style="display:block; margin-left: auto">Add</button>
     </div>
     <c:if test="${requestScope.massage != null}">
         <h3>${requestScope.massage}</h3>

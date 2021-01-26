@@ -24,7 +24,7 @@
         <c:if test="${sessionScope.isUser}">
             <form action="/books/book" method="post">
                 <input type="hidden" name="id" value="${requestScope.book.getId()}">
-                <button>Add</button>
+                <button>Добавить в корзину</button>
             </form>
         </c:if>
     </div>
